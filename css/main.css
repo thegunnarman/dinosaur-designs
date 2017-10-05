@@ -12,13 +12,17 @@ h2 {
   color: #5d8432;
   font-family: "Patua One", cursive;
   text-transform: uppercase;
-
 }
 
 figcaption {
-  text-transform: uppercase;
   text-align: center;
   font-style: italic;
+}
+
+small {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.25rem;
 }
 
 nav li {
@@ -38,9 +42,6 @@ a {
 
 a:hover {
   color: #b42885;
-  font-family: "Patua One", cursive;
-  list-style-type: none;
-  text-decoration: none;
 }
 
 p {
