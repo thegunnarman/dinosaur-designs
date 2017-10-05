@@ -29,6 +29,13 @@ nav {
   text-decoration: none;
 }
 
+a {
+  color: #793284;
+  font-family: "Patua One", cursive;
+  list-style-type: none;
+  text-decoration: none;
+}
+
 a:hover {
   color: #b42885;
   font-family: "Patua One", cursive;
@@ -36,12 +43,7 @@ a:hover {
   text-decoration: none;
 }
 
-a:link {
-  color: #793284;
-  font-family: "Patua One", cursive;
-  list-style-type: none;
-  text-decoration: none;
-}
+
 
 p {
   font-weight: bold;
