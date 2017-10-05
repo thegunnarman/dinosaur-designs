@@ -11,6 +11,7 @@ img {
 h2 {
   color: #5d8432;
   font-family: "Patua One", cursive;
+  text-transform: uppercase;
 
 }
 
@@ -24,14 +25,28 @@ nav {
   font-weight: bold;
   font-size: 1.125rem;
   font-family: "Patua One", cursive;
+  list-style-type: none;
+  text-decoration: none;
 }
 
 a:hover {
   color: #b42885;
   font-family: "Patua One", cursive;
+  list-style-type: none;
+  text-decoration: none;
 }
 
 a:link {
   color: #793284;
   font-family: "Patua One", cursive;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+p {
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  text-align: center;
+  font-style: italic;
 }
