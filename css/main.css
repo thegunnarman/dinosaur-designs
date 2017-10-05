@@ -21,7 +21,7 @@ figcaption {
   font-style: italic;
 }
 
-nav {
+nav li {
   font-weight: bold;
   font-size: 1.125rem;
   font-family: "Patua One", cursive;
@@ -42,8 +42,6 @@ a:hover {
   list-style-type: none;
   text-decoration: none;
 }
-
-
 
 p {
   font-weight: bold;
